@@ -1,0 +1,70 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #fef2f5;
+    font-family: arial;
+}
+.container{
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    font-size: 25px;
+}
+ .container h1{
+    color: rgb( 44, 131, 242);
+
+}
+header{
+    width: 30%;
+    height: 70%;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    background-color: white;
+}
+.box input{
+    width: 75%;
+    margin: 10px;
+    margin-top: 15px;
+    margin-left: 20px;
+    padding:  13px 18px;
+}
+.link{
+    text-align: center;
+    background-color: rgb( 44, 131, 242);
+    margin: 10px;
+    margin-left: 23px;
+    margin-right: 23px;
+    border-radius: 8px;
+    padding: 11px;
+    
+
+}
+.link a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.link1{
+    text-align: center;
+    margin-top: 12px;
+}
+.link1 a{
+    text-decoration: none;
+    color: rgb( 44, 131, 242);
+    font-size: 15px;
+    
+}
+.link2{
+    width: 50%;
+    margin: 25%;
+    text-align: center;
+    margin-top: 40px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 7px;
+}
+.link2 a{
+    text-decoration: none;
+    color: white;
+}
